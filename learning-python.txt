@@ -1,0 +1,5 @@
+in python you can collect data.
+in python you can do mathmatical calculations.
+in python you can get user input.
+in python you can store data in the form of lists.
+in python you can make ditionarries.
